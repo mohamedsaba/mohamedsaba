@@ -56,4 +56,4 @@ Published   3 npm packages
 
 ---
 
-<a href="[https://www.linkedin.com/in/mohamedsabea/]">LinkedIn</a> · <a href="mailto:mohamedsabawork@gmail.com">Email</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedsabea/) · <a href="mailto:mohamedsabawork@gmail.com">Email</a>
