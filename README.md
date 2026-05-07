@@ -1,7 +1,7 @@
 # Mohamed Saba — Backend Engineer
 
 Backend engineer focused on distributed systems and infrastructure tooling.
-CS student at Helwan University. I build things that other systems depend on.
+CS student at Capital University. I build things that other systems depend on.
 
 ---
 
