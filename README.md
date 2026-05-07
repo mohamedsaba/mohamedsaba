@@ -56,4 +56,4 @@ Published   3 npm packages
 
 ---
 
-<a href="[https://linkedin.com/in/mohamedsabea](https://linkedin.com/in/mohamedsabea)">LinkedIn</a> · <a href="mailto:mohamedsabawork@gmail.com">Email</a>
+<a href="[https://www.linkedin.com/in/mohamedsabea/]">LinkedIn</a> · <a href="mailto:mohamedsabawork@gmail.com">Email</a>
