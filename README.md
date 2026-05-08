@@ -66,7 +66,7 @@ Backend     NestJS · TypeScript · Node.js · REST · BullMQ
 Databases   Redis · PostgreSQL · MongoDB · MySQL
 DevOps      Docker · Docker Compose · Railway
 Frontend    Next.js · React · Tailwind CSS
-Published   3 npm packages
+Published   4 npm packages
 ```
 
 ---
